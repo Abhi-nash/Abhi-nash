@@ -9,7 +9,7 @@
 🖥️ Backend: Node.js, Express.js
 🗄️ Database: MongoDB, MySQL
 🔐 Security & Auth: JWT, Bcrypt, Zod
-🛠️ Other Tools: Git, Docker, VS Code
+🛠️ Other Tools: Git, VS Code
 
 
 🏆 Achievements
